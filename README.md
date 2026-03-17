@@ -45,12 +45,6 @@ app/src/main/java/com/example/gymapp/
     └── Type.kt            # Typography
 ```
 
-## Screenshots
-
-| Perfil | Rutinas | Historial |
-|--------|---------|-----------|
-| ![Perfil](screenshots/perfil.png) | ![Rutinas](screenshots/rutinas.png) | ![Historial](screenshots/historial.png) |
-
 ## Author
 
 **Sergio Pineda Cuadrado**  
